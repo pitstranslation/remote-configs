@@ -1,0 +1,10 @@
+{
+    "earlyWrning": {
+        "newForm": true,
+        "renew": false,
+        "cancelForm": false,
+        "changeTradeForm": true,
+        "temporarySuspendSubscription": false,
+        "changeLocationScreen": false
+    }
+}
