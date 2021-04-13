@@ -1,6 +1,6 @@
 {
     "services" : {
-        "earlyWrning": {
+        "earlyWarning": {
             "newForm": true,
             "renew": false,
             "cancelForm": false,
