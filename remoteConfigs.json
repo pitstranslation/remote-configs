@@ -3,10 +3,10 @@
         "earlyWarning": {
             "newForm": true,
             "renew": false,
-            "cancelForm": true,
-            "changeTradeForm": true,
-            "temporarySuspendSubscription": false,
-            "changeLocationScreen": false
+            "cancelForm": false,
+            "changeTradeForm": false,
+            "temporarySuspendSubscription": true,
+            "changeLocationScreen": true
         }
     }
 }
