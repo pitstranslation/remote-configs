@@ -1,12 +1,12 @@
 {
     "services" : {
         "earlyWarning": {
-            "newForm": false,
+            "newForm": true,
             "renew": false,
             "cancelForm": false,
             "changeTradeForm": false,
-            "temporarySuspendSubscription": true,
-            "changeLocationScreen": true
+            "temporarySuspendSubscription": false,
+            "changeLocationScreen": false
         }
     }
 }
