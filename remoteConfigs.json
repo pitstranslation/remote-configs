@@ -2,7 +2,7 @@
     "services" : {
         "earlyWarning": {
             "newForm": true,
-            "renew": false,
+            "renew": true,
             "cancelForm": false,
             "changeTradeForm": false,
             "temporarySuspendSubscription": false,
