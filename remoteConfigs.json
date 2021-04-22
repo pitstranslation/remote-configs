@@ -2,9 +2,9 @@
     "services" : {
         "earlyWarning": {
             "newForm": true,
-            "renew": true,
-            "cancelForm": false,
-            "changeTradeForm": false,
+            "renew": false,
+            "cancelForm": true,
+            "changeTradeForm": true,
             "temporarySuspendSubscription": false,
             "changeLocationScreen": false
         }
